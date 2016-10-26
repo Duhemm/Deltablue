@@ -1,0 +1,141 @@
+= src.106:equals_class.java.lang.Object_bool:
+	193 (4)
+= src.10:equals_class.java.lang.Object_bool:
+	49 (100009)
+= src.10:isSatisfied_bool:
+	6 (5)
+= src.10:newBuilder_trait.scala.collection.mutable.Builder:
+	295 (5)
+= src.118:isInclusive_bool:
+	195 (8)
+	196 (1)
+= src.11:equals_class.java.lang.Object_bool:
+	20 (8)
+= src.12:removeFromGraph_unit:
+	6 (4)
+= src.16:apply_trait.scala.collection.Seq_trait.scala.collection.GenTraversable:
+	295 (4)
+= src.16:equals_class.java.lang.Object_bool:
+	3 (700000)
+	4 (1300017)
+	6 (14)
+	7 (100012)
+= src.17:equals_class.java.lang.Object_bool:
+	20 (100000)
+= src.18:equals_class.java.lang.Object_bool:
+	3 (200000)
+	4 (2)
+	7 (3)
+= src.20:output_class.Variable:
+	3 (300000)
+	4 (300004)
+	6 (5)
+	7 (100003)
+= src.21:execute_unit:
+	6 (5)
+	7 (100003)
+= src.21:isSatisfied_bool:
+	3 (300000)
+	4 (600008)
+	7 (8)
+= src.21:output_class.Variable:
+	3 (100000)
+	4 (200002)
+	6 (5)
+= src.22:equals_class.java.lang.Object_bool:
+	13 (14)
+	16 (1)
+= src.23:execute_unit:
+	3 (300000)
+= src.25:recalculate_unit:
+	4 (200002)
+= src.27:equals_class.java.lang.Object_bool:
+	4 (6)
+	7 (2)
+= src.27:inputsKnown_i32_bool:
+	3 (100000)
+	4 (200002)
+	6 (5)
+= src.29:output_class.Variable:
+	4 (200002)
+= src.2:addToGraph_unit:
+	3 (100000)
+	4 (100000)
+	6 (5)
+	7 (100001)
+= src.30:markInputs_i32_unit:
+	3 (300000)
+	4 (100002)
+	6 (5)
+	7 (100003)
+= src.30:recalculate_unit:
+	3 (300000)
+	4 (300004)
+	6 (5)
+	7 (100003)
+= src.32:output_class.Variable:
+	3 (600000)
+	4 (400006)
+	6 (10)
+	7 (200006)
+= src.33:output_class.Variable:
+	3 (100000)
+	4 (200002)
+	6 (5)
+= src.37:output_class.Variable:
+	3 (100000)
+	4 (200002)
+	6 (5)
+= src.39:equals_class.java.lang.Object_bool:
+	13 (4)
+	14 (4)
+	16 (4)
+	17 (4)
+	18 (4)
+	19 (4)
+= src.3:chooseMethod_i32_unit:
+	3 (300000)
+	4 (100002)
+	6 (5)
+	7 (100006)
+= src.3:execute_unit:
+	3 (10000000)
+	4 (2000020)
+	6 (140)
+= src.3:output_class.Variable:
+	6 (4)
+= src.43:equals_class.java.lang.Object_bool:
+	3 (200000)
+	4 (2)
+	7 (3)
+= src.44:apply_trait.scala.collection.Seq_trait.scala.collection.GenTraversable:
+	295 (1)
+= src.48:markUnsatisfied_unit:
+	3 (200000)
+	4 (2)
+	7 (3)
+= src.4:isInclusive_bool:
+	195 (8)
+	196 (1)
+= src.4:isSatisfied_bool:
+	6 (4)
+= src.5:isSatisfied_bool:
+	4 (400004)
+	7 (2)
+= src.5:markUnsatisfied_unit:
+	6 (4)
+= src.68:equals_class.java.lang.Object_bool:
+	4 (399998)
+	6 (4)
+= src.7:isInput_bool:
+	6 (5)
+= src.7:isSatisfied_bool:
+	3 (300000)
+	4 (100002)
+	6 (5)
+	7 (100006)
+= src.7:removeFromGraph_unit:
+	6 (4)
+= src.9:isInput_bool:
+	6 (5)
+	7 (100003)
